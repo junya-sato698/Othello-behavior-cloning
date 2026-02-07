@@ -8,7 +8,7 @@ import os
 
 # --- ハイパーパラメータ ---
 DATA_FILE = "othello_infinite_depth7.npz" 
-MODEL_SAVE_PATH = "bc_model_deep_cnn_best.pth" 
+MODEL_SAVE_PATH = "bc_model_deep_cnn_best.pth"  
 BATCH_SIZE = 64
 LEARNING_RATE = 1e-4
 WEIGHT_DECAY = 1e-4  
